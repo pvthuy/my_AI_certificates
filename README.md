@@ -2,9 +2,9 @@
 Certification for artificial intelligence (AI), etc.
 
 ## Specializations
-- 1_Specialization Record - Tensorflow in Practice
-- 2_Specialization Record - Reinforcement Learning
-- 3_Specialization Record - Deep Learning
+- 1_Specialization Record - **Tensorflow in Practice**
+- 2_Specialization Record - **Reinforcement Learning**
+- 3_Specialization Record - **Deep Learning**
 
 ## Certificates
 - Fundamentals of Reinforcement Learning
