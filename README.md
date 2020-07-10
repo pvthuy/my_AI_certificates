@@ -2,19 +2,12 @@
 Certification for artificial intelligence (AI), etc.
 
 ## Specializations
-- 1_Specialization Record - **Tensorflow in Practice**
-- 2_Specialization Record - **Reinforcement Learning**
-- 3_Specialization Record - **Deep Learning**
+
+- Specialization Record - **Deep Learning**
+- Specialization Record - **Tensorflow in Practice**
+- Specialization Record - **Reinforcement Learning**
 
 ## Certificates
-- Fundamentals of Reinforcement Learning
-- Sample-based Learning Methods
-- Prediction and Control with Function Approximation
-- A Complete Reinforcement Learning System (Capstone)
-
-- AI For Everyone
-- AI for Medical Diagnosis
-
 - Neural Networks and Deep Learning
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - Structuring Machine Learning Projects
@@ -25,6 +18,14 @@ Certification for artificial intelligence (AI), etc.
 - Convolutional Neural Networks in TensorFlow
 - Natural Language Processing in TensorFlow
 - Sequences, Time Series and Prediction
+
+- Fundamentals of Reinforcement Learning
+- Sample-based Learning Methods
+- Prediction and Control with Function Approximation
+- A Complete Reinforcement Learning System (Capstone)
+
+- AI For Everyone
+- AI for Medical Diagnosis
 
 - Introduction to Self-Driving Cars
 
