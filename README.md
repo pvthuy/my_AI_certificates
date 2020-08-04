@@ -1,14 +1,14 @@
 # my_AI_certificates
 Certification for artificial intelligence (AI), etc.
 
-## Specializations
+## Specializations(4)
 
 - Specialization Record - **Deep Learning**
 - Specialization Record - **Tensorflow in Practice**
 - Specialization Record - **Reinforcement Learning**
 - Specialization Record - **AI for Medicine**
 
-## Certificates
+## Certificates (20)
 - Neural Networks and Deep Learning
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - Structuring Machine Learning Projects
