@@ -6,7 +6,7 @@ Certification for artificial intelligence (AI), etc.
 - Specialization Record - **Deep Learning**
 - Specialization Record - **Tensorflow in Practice**
 - Specialization Record - **Reinforcement Learning**
-- Specialization Record - **AI for Medicine**...
+- Specialization Record - **AI for Medicine**
 
 ## Certificates
 - Neural Networks and Deep Learning
@@ -28,8 +28,8 @@ Certification for artificial intelligence (AI), etc.
 - AI For Everyone
 <br/><br/>
 - AI for Medical Diagnosis
-- AI for Medical Prognosis...
-- AI For Medical Treatment...
+- AI for Medical Prognosis
+- AI For Medical Treatment
 <br/><br/>
 - Introduction to Self-Driving Cars
 <br/><br/>
